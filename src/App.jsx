@@ -40,7 +40,7 @@ function App() {
             </p>
 
             {/* Small Text */}
-            <p className="mt-6 opacity-50">
+            <p className="mt-6 opacity-50 line-clamp-5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Perspiciatis culpa doloribus eius velit assumenda totam pariatur
               rem, incidunt excepturi, voluptatum molestias unde voluptatem vel
